@@ -1,0 +1,286 @@
+TBoggle
+v7
+r0
+t347230382.675563
+cCheck dependencies
+cProcessInfoPlistFile ./Boggle.app/Contents/Info.plist Info.plist
+cCompileC build/Boggle.build/Debug/Boggle.build/Objects-normal/i386/lexicon.o /Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/lexicon.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Boggle.build/Debug/Boggle.build/Objects-normal/i386/gboggle.o /Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/gboggle.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Boggle.build/Debug/Boggle.build/Objects-normal/i386/boggle.o /Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/boggle.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cLd ./Boggle.app/Contents/MacOS/Boggle normal i386
+cTouch ./Boggle.app
+
+N./Boggle.app
+t1325537582
+s102
+
+N./Boggle.app/Contents/Info.plist
+t1325048471
+s1103
+
+N./Boggle.app/Contents/MacOS/Boggle
+t1325537582
+s198768
+
+N./Boggle.app/Contents/PkgInfo
+t1325048471
+s8
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004E2093A0000000000000A5F0
+t1310757792
+s42480
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004B5FA877000000000000A5E0
+t1264560247
+s42464
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c000000004E5295740000000000785970
+t1314035060
+s7887216
+
+N/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/boggle.cpp
+c000000004F0765310000000000003330
+t1325884721
+s13104
+i"genlib.h"
+i"simpio.h"
+i<iostream>
+i"extgraph.h"
+i"grid.h"
+i"random.h"
+i"lexicon.h"
+i"gboggle.h"
+i"strutils.h"
+i"set.h"
+
+N/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/boggleextra.cpp
+c000000004F07652B0000000000000607
+t1325884715
+s1543
+i"boggleextra.h"
+
+N/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/boggleextra.h
+c000000004F076527000000000000008D
+t1325884711
+s141
+
+N/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/build/Boggle.build/Debug/Boggle.build/Objects-normal/i386/Boggle.LinkFileList
+c000000004EFAA2970000000000000185
+t1325048471
+s389
+
+N/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/build/Boggle.build/Debug/Boggle.build/Objects-normal/i386/boggle.o
+t1325537582
+s168044
+
+N/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/build/Boggle.build/Debug/Boggle.build/Objects-normal/i386/boggleextra.o
+t2
+s0
+
+N/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/build/Boggle.build/Debug/Boggle.build/Objects-normal/i386/gboggle.o
+t1325048472
+s60928
+
+N/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/build/Boggle.build/Debug/Boggle.build/Objects-normal/i386/lexicon.o
+t1325048472
+s198456
+
+N/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/cs106/bst.h
+c000000004EFA9EA00000000000004903
+t1325047456
+s18691
+i"cmpfn.h"
+i"vector.h"
+i<cstdlib>
+
+N/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/cs106/cmpfn.h
+c000000004EFA9EA000000000000002C5
+t1325047456
+s709
+
+N/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/cs106/extgraph.h
+c000000004EFA9EA00000000000003EF7
+t1325047456
+s16119
+i"genlib.h"
+i"graphics.h"
+
+N/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/cs106/genlib.h
+c000000004EFA9EA00000000000000455
+t1325047456
+s1109
+i<string>
+
+N/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/cs106/graphics.h
+c000000004EFA9EA000000000000012F6
+t1325047456
+s4854
+
+N/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/cs106/grid.h
+c000000004EFA9EA0000000000000220A
+t1325047456
+s8714
+i"genlib.h"
+i"strutils.h"
+i<cstdlib>
+
+N/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/cs106/libcs106.a
+c000000004EFA9EA0000000000004C730
+t1325047456
+s313136
+
+N/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/cs106/random.h
+c000000004EFA9EA00000000000000684
+t1325047456
+s1668
+
+N/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/cs106/set.h
+c000000004EFA9EA0000000000000342A
+t1325047456
+s13354
+i"cmpfn.h"
+i"bst.h"
+i"vector.h"
+
+N/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/cs106/simpio.h
+c000000004EFA9EA00000000000000668
+t1325047456
+s1640
+i"genlib.h"
+
+N/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/cs106/strutils.h
+c000000004EFA9EA000000000000008A6
+t1325047456
+s2214
+i"genlib.h"
+
+N/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/cs106/vector.h
+c000000004EFA9EA00000000000002977
+t1325047456
+s10615
+i"genlib.h"
+i"strutils.h"
+i<cstdlib>
+
+N/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/gboggle.cpp
+c00000000471667E90000000000003CA8
+t1192650729
+s15528
+i"extgraph.h"
+i"gboggle.h"
+i"strutils.h"
+
+N/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/gboggle.h
+c00000000471667E90000000000000BBA
+t1192650729
+s3002
+i"genlib.h"
+
+N/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/lexicon.cpp
+c00000000470DB5FE0000000000001C6F
+t1192080894
+s7279
+i"lexicon.h"
+i"genlib.h"
+i"strutils.h"
+i<fstream>
+i<cstring>
+i<algorithm>
+
+N/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/lexicon.h
+c00000000470DB62F000000000000211D
+t1192080943
+s8477
+i<string>
+i"genlib.h"
+i<set>
+i<cctype>
+
+NInfo.plist
+c000000004EFA9EA00000000000000326
+t1325047456
+s806
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies347230382#347230382#0(0"0(0#1#0"8610796832#0"0#
+
+CCompileC build/Boggle.build/Debug/Boggle.build/Objects-normal/i386/boggle.o /Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/boggle.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s347230382.067028
+e347230382.604288
+r1
+xCompileC
+xbuild/Boggle.build/Debug/Boggle.build/Objects-normal/i386/boggle.o
+x/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/boggle.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/boggle.cpp: In function 'Vector<locationT> WordCanBeFound(std::string, Grid<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >&, Vector<locationT>)':
+o/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/boggle.cpp:139: warning: control reaches end of non-void function
+lSLF07#2@80"Compile /Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/boggle.cpp347230382#347230382#0(362"/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/boggle.cpp: In function 'Vector<locationT> WordCanBeFound(std::string, Grid<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >&, Vector<locationT>)':/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/boggle.cpp:139: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function347230382#234#128#0(6@72"/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/boggle.cpp347230370#139#0#139#0#40"control reaches end of non-void function0(0#0#72"/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/boggle.cpp8610508096#933"    cd /Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -I/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/build/Boggle.build/Debug/Boggle.build/Boggle.hmap -Wall -Wno-sign-compare -F. -Ics106 -Iinclude -I/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/build/Boggle.build/Debug/Boggle.build/DerivedSources/i386 -I/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/build/Boggle.build/Debug/Boggle.build/DerivedSources -fstack-check -c /Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/boggle.cpp -o /Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/build/Boggle.build/Debug/Boggle.build/Objects-normal/i386/boggle.o0#
+
+CCompileC build/Boggle.build/Debug/Boggle.build/Objects-normal/i386/boggleextra.o /Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/boggleextra.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Boggle.build/Debug/Boggle.build/Objects-normal/i386/gboggle.o /Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/gboggle.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s346741271.942086
+e346741272.295338
+r1
+xCompileC
+xbuild/Boggle.build/Debug/Boggle.build/Objects-normal/i386/gboggle.o
+x/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/gboggle.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/gboggle.cpp:286: warning: deprecated conversion from string constant to 'char*'
+o/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/gboggle.cpp:286: warning: deprecated conversion from string constant to 'char*'
+o/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/gboggle.cpp:286: warning: deprecated conversion from string constant to 'char*'
+o/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/gboggle.cpp:286: warning: deprecated conversion from string constant to 'char*'
+o/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/gboggle.cpp:286: warning: deprecated conversion from string constant to 'char*'
+lSLF07#2@81"Compile /Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/gboggle.cpp346741271#346741272#0(710"/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/gboggle.cpp:286: warning: deprecated conversion from string constant to 'char*'/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/gboggle.cpp:286: warning: deprecated conversion from string constant to 'char*'/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/gboggle.cpp:286: warning: deprecated conversion from string constant to 'char*'/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/gboggle.cpp:286: warning: deprecated conversion from string constant to 'char*'/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/gboggle.cpp:286: warning: deprecated conversion from string constant to 'char*'5(22@53"Deprecated conversion from string constant to 'char*'346741272#0#142#0(6@73"/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/gboggle.cpp214343529#286#0#286#0#49"deprecated conversion from string constant to '*'0(22@53"Deprecated conversion from string constant to 'char*'346741272#142#142#0(6@73"/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/gboggle.cpp214343529#286#0#286#0#49"deprecated conversion from string constant to '*'0(22@53"Deprecated conversion from string constant to 'char*'346741272#284#142#0(6@73"/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/gboggle.cpp214343529#286#0#286#0#49"deprecated conversion from string constant to '*'0(22@53"Deprecated conversion from string constant to 'char*'346741272#426#142#0(6@73"/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/gboggle.cpp214343529#286#0#286#0#49"deprecated conversion from string constant to '*'0(22@53"Deprecated conversion from string constant to 'char*'346741272#568#142#0(6@73"/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/gboggle.cpp214343529#286#0#286#0#49"deprecated conversion from string constant to '*'0(0#0#73"/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/gboggle.cpp8603423680#935"    cd /Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -I/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/build/Boggle.build/Debug/Boggle.build/Boggle.hmap -Wall -Wno-sign-compare -F. -Ics106 -Iinclude -I/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/build/Boggle.build/Debug/Boggle.build/DerivedSources/i386 -I/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/build/Boggle.build/Debug/Boggle.build/DerivedSources -fstack-check -c /Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/gboggle.cpp -o /Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/build/Boggle.build/Debug/Boggle.build/Objects-normal/i386/gboggle.o0#
+
+CCompileC build/Boggle.build/Debug/Boggle.build/Objects-normal/i386/lexicon.o /Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/lexicon.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s346741271.940998
+e346741272.670594
+r1
+xCompileC
+xbuild/Boggle.build/Debug/Boggle.build/Objects-normal/i386/lexicon.o
+x/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/lexicon.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/lexicon.cpp346741271#346741272#0(0"0(0#0#73"/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/lexicon.cpp8612550048#935"    cd /Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -I/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/build/Boggle.build/Debug/Boggle.build/Boggle.hmap -Wall -Wno-sign-compare -F. -Ics106 -Iinclude -I/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/build/Boggle.build/Debug/Boggle.build/DerivedSources/i386 -I/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/build/Boggle.build/Debug/Boggle.build/DerivedSources -fstack-check -c /Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/lexicon.cpp -o /Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/build/Boggle.build/Debug/Boggle.build/Objects-normal/i386/lexicon.o0#
+
+CLd ./Boggle.app/Contents/MacOS/Boggle normal i386
+s347230382.604381
+e347230382.672776
+r1
+xLd
+x./Boggle.app/Contents/MacOS/Boggle
+xnormal
+xi386
+lSLF07#2@39"Link ./Boggle.app/Contents/MacOS/Boggle347230382#347230382#0(0"0(0#0#0"8610011488#449"    cd /Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle    /Developer/usr/bin/g++-4.2 -arch i386 -L. -Lcs106 -L/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/cs106 -F. -filelist /Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/build/Boggle.build/Debug/Boggle.build/Objects-normal/i386/Boggle.LinkFileList -framework Cocoa -framework Carbon -framework QuickTime -lcs106 -o ./Boggle.app/Contents/MacOS/Boggle0#
+
+CProcessInfoPlistFile ./Boggle.app/Contents/Info.plist Info.plist
+s346741271.927456
+e346741271.940887
+r1
+xProcessInfoPlistFile
+x./Boggle.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist346741271#346741271#0(0"0(0#0#72"/Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle/Info.plist13229757704175720#225"    cd /Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle    builtin-infoPlistUtility Info.plist -genpkginfo ./Boggle.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o ./Boggle.app/Contents/Info.plist0#
+
+CTouch ./Boggle.app
+s347230382.672874
+e347230382.675412
+r1
+xTouch
+x./Boggle.app
+lSLF07#2@18"Touch ./Boggle.app347230382#347230382#0(0"0(0#0#0"8609974944#104"    cd /Users/gregcohan/Desktop/ProgrammingAbstractions/XCode/Boggle    /usr/bin/touch -c ./Boggle.app0#
+
